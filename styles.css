@@ -1,0 +1,48 @@
+body {
+	background: black;
+	padding-top: 15px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-style: italic;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	margin-top: 200px;
+}
+.postcard-header {
+	display: flex;
+}
+img {
+	width: 50px;
+	padding-right: 10px;
+	padding-top: 5px;
+}
+h1 {
+	width: 900px;
+	margin: 0%;
+	padding: 10px;
+}
+.postcard-body {
+	display: flex;
+}
+.p1 {
+	margin-top: 0%;
+}
+.body-left {
+	padding: 10px;
+}
+.body-right {
+	padding: 10px;
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: grey;
+}
+input {
+	border: none;
+	border-bottom: 1px solid grey;
+}
